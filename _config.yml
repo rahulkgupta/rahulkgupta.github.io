@@ -1,0 +1,12 @@
+# Site settings
+title: rkayg
+email: rahulkartgupta@gmail.com
+description: >
+  Rahul Gupta's blog.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://rkayg.com" # the base hostname & protocol for your site
+twitter_username: rahulk_g
+github_username:  rahulkgupta
+
+# Build settings
+markdown: kramdown
